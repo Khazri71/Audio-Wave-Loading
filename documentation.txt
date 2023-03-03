@@ -1,0 +1,8 @@
+--NOTES--
+
+--ROADMAP--
+1- Spans
+2- Spans : Different left
+3- Create Animation x
+4- Spans : Add Animation x
+5- Span : Different Animation Delay
